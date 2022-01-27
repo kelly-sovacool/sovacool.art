@@ -1,0 +1,15 @@
+---
+title: "Kate Sovacool"
+image: "images/kate.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/katesovacool/"
+  - label: Email
+    url: "mailto:katiesovacool@gmail.com"
+#  - label: Resume
+#    url: "/resume_Kate-Sovacool.pdf"
+output:
+  postcards::jolla
+---
+ 
+I am a Program Manager for an Indianapolis nonprofit with experience in Multiple Project Coordination, Customer Service, Grants Management, Public Speaking, and teaching.
