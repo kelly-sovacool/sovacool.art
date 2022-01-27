@@ -1,3 +1,3 @@
 # sovacool.art
 
-Katie Sovacool's personal website
+Kate Sovacool's personal website
