@@ -1,15 +1,19 @@
 ---
 title: "Kate Sovacool"
 image: "images/kate.jpeg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/katesovacool/"
   - label: Email
     url: "mailto:katiesovacool@gmail.com"
-#  - label: Resume
-#    url: "/resume_Kate-Sovacool.pdf"
 output:
-  postcards::jolla
+  postcards::onofre
 ---
  
-I am a Program Manager for an Indianapolis nonprofit with experience in Multiple Project Coordination, Customer Service, Grants Management, Public Speaking, and teaching.
+I am an Executive Search Assistant at Extract Talent with experience in 
+Multiple Project Coordination, Customer Service, Grants Management, and teaching.
+
+In my free time I enjoy rollerblading, traveling, and creating art!
